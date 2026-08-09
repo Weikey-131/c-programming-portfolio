@@ -1,0 +1,18 @@
+=== Test 1: Deposit and Undo ===
+Balance after deposit: 150.00
+Balance after undo: 100.00
+
+=== Test 2: Invalid Withdrawal ===
+Invalid withdrawal result: 0
+Balance after failed withdrawal: 100.00
+
+=== Test 3: BFS Graph Search ===
+Shortest transfer distance: 2
+
+=== Test 4: DFS Graph Search ===
+Route exists: 1
+
+=== Test 5: Empty Queue ===
+Process empty queue result: 0
+
+=== All tests completed ===
